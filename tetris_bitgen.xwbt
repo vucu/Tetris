@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\152\Downloads\lab4 - ver2a\tetris.ncd
+OUTFILE=C:\Users\152\Downloads\lab4 - ver2a\tetris.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=C:\Users\152\Downloads\lab4 - ver2a
+LICENSE=ISE
+USER_INFO=203015155_203016297_210565169_068
