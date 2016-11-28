@@ -1,4 +1,4 @@
-`timescale 1ns / 1ps
+`include "definitions.vh"
 
 module check_boundary(
 	 input wire [255:0] board,
