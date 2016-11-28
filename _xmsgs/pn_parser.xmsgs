@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/admin/Desktop/UCLA Homework/CS M152A/lab4 - ver5/check_boundary.v&quot; into library work</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/admin/Desktop/UCLA Homework/CS M152A/lab4 - ver5/check_boundary.v</arg>&quot; Line <arg fmt="%d" index="2">15</arg>. <arg fmt="%s" index="3">Macro &lt;BLOCK_SINGLE&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/admin/Desktop/UCLA Homework/CS M152A/lab4 - ver5/check_boundary.v</arg>&quot; Line <arg fmt="%d" index="2">15</arg>. <arg fmt="%s" index="3">Syntax error near &quot;)&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/admin/Desktop/UCLA Homework/CS M152A/lab4 - ver5/check_boundary.v</arg>&quot; Line <arg fmt="%d" index="2">25</arg>. <arg fmt="%s" index="3">Macro &lt;BOARD_BLOCK_W&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/admin/Desktop/UCLA Homework/CS M152A/lab4 - ver5/check_boundary.v</arg>&quot; Line <arg fmt="%d" index="2">25</arg>. <arg fmt="%s" index="3">Syntax error near &quot;*&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/admin/Desktop/UCLA Homework/CS M152A/lab4 - ver5/check_boundary.v</arg>&quot; Line <arg fmt="%d" index="2">34</arg>. <arg fmt="%s" index="3">Syntax error near &quot;*&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="870" >&quot;<arg fmt="%s" index="1">C:/Users/admin/Desktop/UCLA Homework/CS M152A/lab4 - ver5/check_boundary.v</arg>&quot; Line <arg fmt="%d" index="2">39</arg>. <arg fmt="%s" index="3">Macro &lt;BOARD_BLOCK_H&gt; is not defined.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/admin/Desktop/UCLA Homework/CS M152A/lab4 - ver5/check_boundary.v</arg>&quot; Line <arg fmt="%d" index="2">43</arg>. <arg fmt="%s" index="3">Syntax error near &quot;*&quot;.</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/admin/Desktop/UCLA Homework/CS M152A/lab4 - ver5/clock.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/admin/Desktop/UCLA Homework/CS M152A/lab4 - ver5/tetris.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/admin/Desktop/UCLA Homework/CS M152A/lab4 - ver5/tetris.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/admin/Desktop/UCLA Homework/CS M152A/lab4 - ver5/definitions.vh&apos; in file &quot;C:/Users/admin/Desktop/UCLA Homework/CS M152A/lab4 - ver5/tetris.v&quot; line 1
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/admin/Desktop/UCLA Homework/CS M152A/lab4 - ver5/vga_display.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">C:/Users/admin/Desktop/UCLA Homework/CS M152A/lab4 - ver5/vga_display.v</arg>&quot; Line <arg fmt="%d" index="2">1</arg>. <arg fmt="%s" index="3">Include file found: &apos;C:/Users/admin/Desktop/UCLA Homework/CS M152A/lab4 - ver5/definitions.vh&apos; in file &quot;C:/Users/admin/Desktop/UCLA Homework/CS M152A/lab4 - ver5/vga_display.v&quot; line 1
+</arg>
+</msg>
+
+</messages>
+

@@ -27,6 +27,19 @@ module tetris(
 		.clk_out(clk),
 		.clk_playable(clk_play)
 	);
+	
+	wire can_move_down;
+	wire can_move_left;
+	wire can_move_right;
+	check_boundary cb (
+		.board(board),
+		.block_xpos(block_xpos),
+		.block_ypos(block_ypos),
+		.block_type(block_type),
+		.can_move_down(can_move_down),
+		.can_move_left(can_move_left),
+		.can_move_right(can_move_right)
+	);
 
 	vga_display display_ (
 		.clk(clk),
