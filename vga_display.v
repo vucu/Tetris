@@ -2,7 +2,7 @@
 
 module vga_display(
 	input wire clk,
-	input wire [255:0] board,
+	input wire [127:0] board,
 	input wire [7:0]	block_xpos,	
 	input wire [7:0]	block_ypos,		
 	input wire [7:0]	block_type,			 
@@ -61,10 +61,6 @@ module vga_display(
 					begin
 						rgb = `GREEN;
 					end
-					if ((board_xpos==block_xpos)&&(board_ypos==block_ypos+1)) 
-					begin
-						rgb = `GREEN;
-					end
 				end
 				else if (block_type == `BLOCK_I_HORRIZONTAL) 
 				begin
@@ -77,10 +73,6 @@ module vga_display(
 						rgb = `GREEN;
 					end
 					if ((board_xpos==block_xpos+1)&&(board_ypos==block_ypos)) 
-					begin
-						rgb = `GREEN;
-					end
-					if ((board_xpos==block_xpos+2)&&(board_ypos==block_ypos)) 
 					begin
 						rgb = `GREEN;
 					end
